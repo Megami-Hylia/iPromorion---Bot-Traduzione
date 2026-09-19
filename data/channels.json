@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "guild_id": 1376652939170418761,
+      "channel_id": 1510666945802932234,
+      "language": "it",
+      "webhook_id": 1550207088762949762,
+      "revision": "742839de152c445191d4cd620b4fb342"
+    },
+    {
+      "guild_id": 1376652939170418761,
+      "channel_id": 1529168926989090867,
+      "language": "fr",
+      "webhook_id": 1550207157637615668,
+      "revision": "c13af97fa3304b16b9d5c2fa22a17497"
+    },
+    {
+      "guild_id": 1376652939170418761,
+      "channel_id": 1529168973529088183,
+      "language": "en",
+      "webhook_id": 1550207198137815152,
+      "revision": "a55b9d5e703a47cc8e469c16543c08ae"
+    },
+    {
+      "guild_id": 1472904665694732290,
+      "channel_id": 1550202151329075371,
+      "language": "it",
+      "webhook_id": 1550202212788211803,
+      "revision": "7a16ca1f79e04200af47e44454efd8fa"
+    },
+    {
+      "guild_id": 1472904665694732290,
+      "channel_id": 1550202168114679878,
+      "language": "en",
+      "webhook_id": 1550202266252746922,
+      "revision": "700ccf06adb7483d8fc28898bdca6ce6"
+    },
+    {
+      "guild_id": 1472904665694732290,
+      "channel_id": 1550202418505973890,
+      "language": "fr",
+      "webhook_id": 1550202460734492774,
+      "revision": "01971af962be437fae81cd803fe5f212"
+    }
+  ]
+}
