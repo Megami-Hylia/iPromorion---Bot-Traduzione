@@ -1,3 +1,4 @@
+hylia è gay
 # Bot Discord per traduzioni tra canali
 
 Bot completo in **Python 3.11+ con discord.py**, con traduzioni tramite **LibreTranslate** oppure **DeepL API**. Non usa LLM: nessun consumo di token. La configurazione persiste in SQLite e i messaggi tradotti vengono inviati via webhook, con nome e avatar dell'autore.
