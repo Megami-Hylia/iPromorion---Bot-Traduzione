@@ -1,4 +1,3 @@
-hylia è gay
 # Bot Discord per traduzioni tra canali
 
 Bot completo in **Python 3.11+ con discord.py**, con traduzioni tramite **LibreTranslate** oppure **DeepL API**. Non usa LLM: nessun consumo di token. La configurazione persiste in SQLite e i messaggi tradotti vengono inviati via webhook, con nome e avatar dell'autore.
@@ -212,3 +211,5 @@ Per la prova completa configura i tre canali, invia un messaggio in ciascuno e v
 | Copie doppie | Assicurati che sia in esecuzione una sola istanza del bot. |
 
 Le librerie e le API esterne possono evolvere. I riferimenti al comportamento delle API e alla quota DeepL sono stati verificati il **17 settembre 2026**; la connessione al tuo server e le traduzioni reali richiedono il tuo token e un provider disponibile.
+
+By Hylia
